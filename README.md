@@ -1,2 +1,0 @@
-# IntelligenceLifeCycle
-Notes Only
