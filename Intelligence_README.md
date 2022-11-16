@@ -41,6 +41,37 @@ where access to updates and research is subject to a subscription fee
 ![Source Eval](https://user-images.githubusercontent.com/111991325/202078186-eaac1ef7-bfc6-4ef5-a193-b8f22792b916.png)
 
 # Threat Classification - Importance of Threat Data & Intelligence
+- <b>Threat Modeling</b>
+    - The process of identifying and assessing the possible threat actors and attack vectors that pose a risk to the security of an app, network, or other system
+    - Threat modeling may be used to analyze corporate networks in general or against specific targets like a website or application being deployed
+        - How can the attack be performed?
+        - What is the potential impact to the confidentiality, integrity, and availability of the data?
+        - How likely is the risk to occur?
+        - What mitigations are in place?
+
+- <b>Adversary Capability</b>
+    - A formal classification of the resources and expertise available to a threat actor
+    -  What tools are they using?
+        -  Acquired and augmented
+        -  Developed
+        -  Advanced
+        -  Integrated
+        
+- <b>Attack Surface</b>
+    - The points at which a network or application receives external connections or inputs/outputs that are potential vectors to be exploited by a threat actor
+        - The holistic network
+        - Websites or cloud-services
+        - Custom software applications
+
+- <b>Attack Vector</b>
+    - A specific path by which a threat actor gains unauthorized access to a system
+        - Cyber
+        - Human
+        - Physical
+- <b>Risk</b>
+    - Likelihood - The chance of a threat being realized which is usually expressed as a percentage
+    - Impact - The cost of a security incident or disaster scenario which is usually expressed in cost (dollars)
+
 ## Threat Classification
   - <b>Known Threats</b>
     - A threat that can be identified using basic signature or pattern matching
